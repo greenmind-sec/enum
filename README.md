@@ -36,7 +36,7 @@ sudo docker build -t enum .
 ```
 
 ## Usando a imagem
-Depois de criar a nossa imagem **recon** podemos subir ela e destruir sempre que precisar.
+Depois de criar a nossa imagem **enum** podemos subir ela e destruir sempre que precisar.
 ```sh
 docker run -ti --rm enum bash
 ```
