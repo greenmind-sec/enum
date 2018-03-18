@@ -3,7 +3,7 @@ FROM debian
 MAINTAINER greenmind.sec@gmail.com
 
 WORKDIR /root
-ADD ./enum /root/
+#ADD ./enum /root/
 
 RUN apt-get update
 
